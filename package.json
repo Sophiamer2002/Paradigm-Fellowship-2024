@@ -1,0 +1,18 @@
+{
+  "name": "Paradigm-Fellowship-2024",
+  "version": "1.0.0",
+  "description": "For application of the fellowship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sophiamer2002",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.1.1",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3",
+    "gaussian": "git+https://github.com/errcw/gaussian"
+  }
+}
