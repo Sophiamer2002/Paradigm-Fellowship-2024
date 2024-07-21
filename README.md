@@ -57,7 +57,10 @@ An Ethereum contract is funded with 1,000 ETH. It costs 1 ETH to call, which is 
 
 #### Answer
 
+In developing the following solution, certain assumptions were made to facilitate the process. However, it is important to note that these assumptions are based on limited knowledge and may not fully capture the complexities of the problem domain.
+
 At the very beginning, we give the following assumptions:
+
 - The amount of ETH caused by sending a transaction is negligible compared with what we are working on during our discussion.
 - The total supply of ETH is approximately uniformly distributed among all identities. (Otherwise, proof of stake would be meaningless.)
 
